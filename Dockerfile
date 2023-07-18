@@ -9,4 +9,5 @@ RUN apt update && apt install -y curl \
     host \
     dnsutils \
     nmap \
-    curl
+    mysql-client \
+    iputils-ping
